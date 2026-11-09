@@ -32,6 +32,15 @@ We tested the angle detection by tilting the Arduino and checking whether the LE
 1. `Arduino_LSM9DS1` – Used to read the accelerometer.
 2. `math.h` – Used for angle and movement calculations.
 
+~~ Demonstration Link and References ~~
+
+Link: https://canva.link/4dzt289r9sej0tw
+
+References:
+[1] https://www.cdc.gov/niosh/falls/ladder/index.html
+[2] https://canadasafetycouncil.org/ladder-safety-starts-at-home/
+[3] https://www.sciencedirect.com/science/article/pii/0022437592900358
+
 ~~ Credits ~~ 
 
 Developed by our team during natHacks 2026.
